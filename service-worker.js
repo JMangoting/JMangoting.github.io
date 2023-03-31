@@ -7,7 +7,6 @@ var urlsToCache = [
     '/contact.html',
     '/portfolio-example01.html',
     '/styles.css',
-    // '/js/app.js',
     '/images/about-header.jpg',
     '/images/contact-image.jpg',
     '/images/example-blog01.jpg',
